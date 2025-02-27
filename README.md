@@ -8,4 +8,4 @@
 - Picked always last element of list(array)
 - Pop the last element of list.
 - Show list is not empty 😊 when list length is > 0 && < 5
-- Shows list is full 😒 when lists length is > 5 
+- Shows list is full 😒 when list length is > 5 
